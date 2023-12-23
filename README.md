@@ -1,1 +1,3 @@
-My first WordPress plugin, doesn't do much as of now just outputs "Hello my name's Logan" in Russian at the top of the page. 
+# My very first WordPress plugin
+
+It just outputs "Hello my name's Logan" in Russian at the top of every page. 
